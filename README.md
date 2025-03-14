@@ -2,7 +2,7 @@
 
 👀 I’m interested in Marketing Analytics
 
-🌱 I’m currently learning Data Science next level
+🌱 I’m currently learning Data Science next level & trying to document my projects here (They are private now!)
 
 🌸 I'm also interested in VR/UX/SD..
 
