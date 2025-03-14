@@ -12,7 +12,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I wanted to be a fashion designer/artist.
+⚡ Fun fact: I wanted to be a fashion designer/artist, but learned Finance in undergrad.
 
 <!---
 ttinahooo/ttinahooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
