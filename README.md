@@ -1,8 +1,8 @@
 👋 Hi, I’m @ttinahooo
 
-👀 I’m interested in Marketing Analytics
+👀 I’m interested in **Marketing Analytics**
 
-🌱 I’m currently learning Data Science next level & trying to document my projects here (Some of them are private now!)
+🌱 I’m currently bringing my **Data Science** skills to the next level & trying to document my projects here (Some of them are private now!)
 
 🌸 I'm also interested in VR/UX/SD..
 
