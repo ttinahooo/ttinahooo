@@ -6,7 +6,7 @@
 
 🌸 I'm also interested in VR/UX/SD..
 
-💞️ I’m looking to collaborate on Data Analysis / Marketing Projects
+💞️ I’m looking to collaborate on **Data Analysis / Marketing Projects**
 
 📫 ttinahooo14@gmail.com
 
